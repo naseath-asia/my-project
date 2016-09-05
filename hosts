@@ -1,0 +1,12 @@
+[local]
+localhost ansible_connection=local
+infrastructure ansible_connection=local
+
+[aws_vms]
+nssgweb				ansible_host=54.169.112.68 
+nssgnagios			ansible_host=52.77.232.59
+nssgteampass		ansible_host=xx.xx.xx.xx
+nssggit				ansible_host=xx.xx.xx.xx
+nssgjira			ansible_host=xx.xx.xx.xx
+nssgconfluence		ansible_host=xx.xx.xx.xx
+nssgldap			ansible_host=xx.xx.xx.xx
