@@ -1,0 +1,37 @@
+---
+# defaults file for nagios
+nagios_packages:
+  - apache2
+  - libapache2-mod-php5
+  - build-essential
+  - libgd2-xpm-dev
+  - libssl-dev
+  - sendmail-bin
+  - sendmail
+  - heirloom-mailx
+  - wget
+  - curl
+  - daemon
+  - apt-file
+  - libnet-snmp-perl
+  - libpq5
+  - libradius1
+  - libsensors4
+  - libsnmp-base
+  - libtalloc2
+  - libtdb1
+  - libwbclient0
+  - samba-common
+  - samba-common-bin
+  - smbclient
+  - snmp
+  - whois
+  - libmysqlclient15-dev
+  - checkinstall
+  - python-passlib
+  - libwww-perl
+  - libcrypt-ssleay-perl
+
+nagios_legacy_packages:
+  - libperl5.14
+  - libsnmp15

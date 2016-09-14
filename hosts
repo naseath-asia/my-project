@@ -10,3 +10,6 @@ nssggit				ansible_host=xx.xx.xx.xx
 nssgjira			ansible_host=xx.xx.xx.xx
 nssgconfluence		ansible_host=xx.xx.xx.xx
 nssgldap			ansible_host=xx.xx.xx.xx
+nssgpackages		ansible_host=xx.xx.xx.xx
+teampass
+

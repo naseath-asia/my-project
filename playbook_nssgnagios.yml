@@ -1,0 +1,7 @@
+---
+## playbook for nssgnagios
+- hosts: nssgnagios
+  gather_facts: true
+  roles:
+    - role: nagios
+      tags: nagios
