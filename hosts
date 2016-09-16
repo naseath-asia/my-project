@@ -11,5 +11,25 @@ nssgjira			ansible_host=xx.xx.xx.xx
 nssgconfluence		ansible_host=xx.xx.xx.xx
 nssgldap			ansible_host=xx.xx.xx.xx
 nssgpackages		ansible_host=xx.xx.xx.xx
-teampass
-
+nssgdocker			ansible_host=xx.xx.xx.xx
+nssgci				ansible_host=xx.xx.xx.xx
+nssgselinium		ansible_host=xx.xx.xx.xx
+nssgjira			ansible_host=xx.xx.xx.xx
+nssgconfluence		ansible_host=xx.xx.xx.xx
+nssghipchat			ansible_host=xx.xx.xx.xx
+nssglog				ansible_host=xx.xx.xx.xx
+nssgpfsense			ansible_host=xx.xx.xx.xx
+nssgproxy			ansible_host=xx.xx.xx.xx
+nssgbacula			ansible_host=xx.xx.xx.xx
+nssgvarnish			ansible_host=xx.xx.xx.xx
+nssglb 				ansible_host=xx.xx.xx.xx
+nssgmysql			ansible_host=xx.xx.xx.xx
+nssgstorage			ansible_host=xx.xx.xx.xx
+nssgasterisk		ansible_host=xx.xx.xx.xx
+nssgmail			ansible_host=xx.xx.xx.xx
+nssgsms 			ansible_host=xx.xx.xx.xx
+nssgawstats			ansible_host=xx.xx.xx.xx
+nssgcacti			ansible_host=xx.xx.xx.xx
+nssgmoodle			ansible_host=xx.xx.xx.xx
+[Internal]
+nssgkh				ansible_host=f6:61:72:55:1a
