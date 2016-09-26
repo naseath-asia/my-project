@@ -1,0 +1,16 @@
+---
+php_packages:
+  - php-apc
+  - php-pear
+  - php5
+  - php5-cgi
+  - php5-curl
+  - php5-dev
+  - php5-gd
+  - php5-mcrypt
+  - php5-mysql
+  - php5-sqlite
+  - php5-xdebug
+  - libmemcached-dev
+  - libc-client2007e-dev
+  - libt1-dev

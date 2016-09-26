@@ -1,0 +1,7 @@
+---
+## playbook for nssgnagios
+- hosts: nssgweb
+  gather_facts: true
+  roles:
+    - role: php
+      tags: php

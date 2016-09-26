@@ -3,4 +3,5 @@
   gather_facts: true
 
 - include: playbook_nssgnagios.yml
+- include: playbook_nssgweb.yml
   

@@ -1,0 +1,5 @@
+---
+- name: Install php5 packages
+  sudo: true
+  apt: pkg={{ item }} state=installed
+  with_items: php_packages
